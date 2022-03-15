@@ -1,6 +1,6 @@
 # **Snippets**
 
-### **Setup School Folders**  <div dir="rtl"> ![](https://img.shields.io/badge/--000?&logo=linux)/![](https://img.shields.io/badge/--000?&logo=Windows)</div> 
+### **Setup School Folders**  &nbsp; ![](https://img.shields.io/badge/--000?&logo=Windows)/![](https://img.shields.io/badge/--000?&logo=linux)
 ```batch
 mkdir 0-RBA
 mkdir 1-Leland
