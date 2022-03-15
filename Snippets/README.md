@@ -1,5 +1,7 @@
+# **Snippets**
+
 ### **Setup School Folders**
-```
+```batch
 mkdir 0-RBA
 mkdir 1-Leland
 mkdir 2-Whiteville
