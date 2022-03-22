@@ -8,3 +8,7 @@ mkdir 2-Whiteville
 mkdir 3-Wilmington
 mkdir 4-Southport
 ```
+### **Copy Directory Tree** &nbsp; ![](https://img.shields.io/badge/--000?&logo=Windows)
+```batch
+xcopy <sourceDir>\ <destinationDir>\ /t /e
+```
